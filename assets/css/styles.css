@@ -4,7 +4,7 @@ html {
 body {
   font-size: 25px;
   font-size: 0.9375rem;
-  font-family: "Open sans", Helvetica, Arial, sans-serif;
+  font-family: nyt-imperial;  /*"Open sans", Helvetica, Arial, sans-serif;*/
   color: #000000;
   padding: 0;
 }
@@ -183,7 +183,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Open sans", Helvetica, Arial, sans-serif;
+  font-family: nyt-cheltenham; /*"Open sans", Helvetica, Arial, sans-serif;*/
   font-weight: 400;
   color: #333333;
 }
