@@ -257,7 +257,7 @@ a:hover {
 }
 #head .title {
   font-family: Alice, Georgia, serif;
-  font-size: 49px;
+  font-size: 35px;
   font-size: 3.0625rem;
 }
 #head .title a {
@@ -282,7 +282,7 @@ a:hover {
   padding: 20px 0;
 }
 .home #head .title {
-  font-size: 49px;
+  font-size: 35px;
   font-size: 3.0625rem;
 }
 .home #head .tagline {
@@ -295,7 +295,7 @@ a:hover {
   padding: 10px 0;
 }
 .home1 #head .title {
-  font-size: 36px;
+  font-size: 26px;
   font-size: 3.0625rem;
 }
 .home1 #head .tagline {
